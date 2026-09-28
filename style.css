@@ -1,0 +1,66 @@
+body{
+    display: flex;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right{
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+}
+.left{
+    width: 50vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+#heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    
+   display: flex;
+   flex-direction: column;
+   
+   justify-items: center;
+}
+lable and input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#email{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50p;
+}
+#password{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#btn{
+    width: 400px;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:blue;
+    color: aliceblue;
+}
+#para{
+    display: flex;
+    justify-content: center;
+}
+span{
+    color: blue;
+ }   
+    
